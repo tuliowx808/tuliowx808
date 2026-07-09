@@ -4,4 +4,4 @@
 
 </div>
 
-<img src=https://cdn.pfps.gg/banners/16894-cute-anime-cat.gif\ height="400" width="1000">
+<img src=https://cdn.pfps.gg/banners/16894-cute-anime-cat.gif height="400" width="1000">
