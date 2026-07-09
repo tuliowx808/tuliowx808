@@ -4,4 +4,4 @@
 
 </div>
 
-<img src=https://media.tenor.com/AAMEFNsRaeEAAAAM/anime-girl.gif\>
+<img src=https://media.tenor.com/AAMEFNsRaeEAAAAM/anime-girl.gif\ height="400" width="1000">
