@@ -4,6 +4,7 @@
 Dando os primeiros passos no mundo da tecnologia. Aluno de Técnico em Informática, curioso por internet e focado em aprender um pouco mais sobre o universo de TI a cada dia.
 
   - 🧑‍💻 Atualmente estou estudando No Cedup Renato Ramos, cursando o técnico de Informática
+  - 💻 Html, css, c#
   - 🎧 Gosto de Música e jogos
   - 😄 Dream big, work hard
 </p>
