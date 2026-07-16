@@ -9,3 +9,6 @@
 ##
 
 <img src=https://cdn.pfps.gg/banners/3752-anime.gif height="400" width="1000">
+
+ <a href="https://instagram.com/tuliowx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
