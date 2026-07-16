@@ -2,7 +2,7 @@
 <p>
 
   - 🧑‍💻 Atualmente estou estudando No Cedup Renato Ramos, cursando o técnico de Informática
-
+  - 🎧 Gosto de Música e jogos
   - 😄 Dream big, work hard
 </p>
 
